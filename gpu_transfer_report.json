@@ -1,0 +1,50 @@
+{
+  "project": "Video RAG and Motion Understanding",
+  "dataset": "FunAILab/TVBench",
+  "python_version": "3.11.3",
+  "metadata_categories": {
+    "moving_direction": {
+      "question_count": 232,
+      "unique_videos": 232,
+      "average_question_length": 55.51,
+      "has_candidates": 232,
+      "has_timestamps": 0
+    },
+    "action_count": {
+      "question_count": 536,
+      "unique_videos": 404,
+      "average_question_length": 84.44,
+      "has_candidates": 536,
+      "has_timestamps": 0
+    },
+    "action_localization": {
+      "question_count": 160,
+      "unique_videos": 160,
+      "average_question_length": 86.31,
+      "has_candidates": 160,
+      "has_timestamps": 160
+    },
+    "action_sequence": {
+      "question_count": 437,
+      "unique_videos": 336,
+      "average_question_length": 29.0,
+      "has_candidates": 437,
+      "has_timestamps": 437
+    }
+  },
+  "sample_video": {
+    "filename": "video_14393.mp4",
+    "exists": true,
+    "verified_manually": true,
+    "question": "Which direction does the purple sphere move in the video?",
+    "expected_answer": "Down and to the right.",
+    "observed_answer": "Down and to the right."
+  },
+  "next_phase": [
+    "Set up GPU-enabled PyTorch",
+    "Load video frames",
+    "Build motion understanding",
+    "Build video question answering",
+    "Evaluate predictions"
+  ]
+}
