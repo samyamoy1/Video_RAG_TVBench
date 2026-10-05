@@ -9,3 +9,4 @@ sample_videos/
 .huggingface/
 
 .env
+evaluation_videos/

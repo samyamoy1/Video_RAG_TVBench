@@ -1,0 +1,272 @@
+[
+  {
+    "category": "moving_direction",
+    "video": "video_14393.mp4",
+    "question": "Which direction does the purple sphere move in the video?",
+    "answer": "Down and to the right.",
+    "candidates": [
+      "Up and to the right.",
+      "Up and to the left.",
+      "Down and to the left.",
+      "Down and to the right."
+    ],
+    "start": null,
+    "end": null
+  },
+  {
+    "category": "moving_direction",
+    "video": "video_12582.mp4",
+    "question": "Which direction does the brown cube move in the video?",
+    "answer": "Down and to the left.",
+    "candidates": [
+      "Down and to the left.",
+      "Up and to the right.",
+      "Down and to the right.",
+      "Up and to the left."
+    ],
+    "start": null,
+    "end": null
+  },
+  {
+    "category": "moving_direction",
+    "video": "video_13609.mp4",
+    "question": "Which direction does the purple sphere move in the video?",
+    "answer": "Down and to the right.",
+    "candidates": [
+      "Up and to the right.",
+      "Up and to the left.",
+      "Down and to the left.",
+      "Down and to the right."
+    ],
+    "start": null,
+    "end": null
+  },
+  {
+    "category": "moving_direction",
+    "video": "video_14362.mp4",
+    "question": "Which direction does the gray sphere move in the video?",
+    "answer": "Down and to the right.",
+    "candidates": [
+      "Up and to the right.",
+      "Down and to the right.",
+      "Up and to the left.",
+      "Down and to the left."
+    ],
+    "start": null,
+    "end": null
+  },
+  {
+    "category": "moving_direction",
+    "video": "video_11746.mp4",
+    "question": "Which direction does the green sphere move in the video?",
+    "answer": "Down and to the left.",
+    "candidates": [
+      "Up and to the left.",
+      "Down and to the left.",
+      "Down and to the right.",
+      "Up and to the right."
+    ],
+    "start": null,
+    "end": null
+  },
+  {
+    "category": "action_count",
+    "video": "video_8686.mp4",
+    "question": "The person makes sets of repeated actions. How many times did the person repeat the action in the last set?",
+    "answer": "4",
+    "candidates": [
+      "2",
+      "3",
+      "5",
+      "4"
+    ],
+    "start": null,
+    "end": null
+  },
+  {
+    "category": "action_count",
+    "video": "video_10205.mp4",
+    "question": "The person makes sets of repeated actions. How many times did the person repeat the action in the last set?",
+    "answer": "2",
+    "candidates": [
+      "2",
+      "3",
+      "5",
+      "4"
+    ],
+    "start": null,
+    "end": null
+  },
+  {
+    "category": "action_count",
+    "video": "video_10879.mp4",
+    "question": "The person makes sets of repeated actions. How many times did the person repeat the action in the first set?",
+    "answer": "5",
+    "candidates": [
+      "2",
+      "3",
+      "5",
+      "4"
+    ],
+    "start": null,
+    "end": null
+  },
+  {
+    "category": "action_count",
+    "video": "video_2126.mp4",
+    "question": "How many containers did the person try to cover?",
+    "answer": "5",
+    "candidates": [
+      "2",
+      "3",
+      "5",
+      "4"
+    ],
+    "start": null,
+    "end": null
+  },
+  {
+    "category": "action_count",
+    "video": "video_10392.mp4",
+    "question": "How many buttons did you see the person buttoning up?",
+    "answer": "5",
+    "candidates": [
+      "2",
+      "3",
+      "5",
+      "4"
+    ],
+    "start": null,
+    "end": null
+  },
+  {
+    "category": "action_localization",
+    "video": "EK5K1.mp4",
+    "question": "At what moment in the video does the action 'the person takes a lollipop from a box' occur?",
+    "answer": "Throughout the entire video.",
+    "candidates": [
+      "At the end of the video.",
+      "In the middle of the video.",
+      "At the beginning of the video.",
+      "Throughout the entire video."
+    ],
+    "start": 19.5,
+    "end": 36.4
+  },
+  {
+    "category": "action_localization",
+    "video": "L2502.mp4",
+    "question": "When in the video sequence do we observe the action 'person fixes their hair in a mirror'?",
+    "answer": "Throughout the entire video.",
+    "candidates": [
+      "At the end of the video.",
+      "In the middle of the video.",
+      "At the beginning of the video.",
+      "Throughout the entire video."
+    ],
+    "start": 14.2,
+    "end": 31.1
+  },
+  {
+    "category": "action_localization",
+    "video": "TKAUR.mp4",
+    "question": "When in the video sequence do we observe the action 'person reads a book'?",
+    "answer": "Throughout the entire video.",
+    "candidates": [
+      "In the middle of the video.",
+      "At the beginning of the video.",
+      "At the end of the video.",
+      "Throughout the entire video."
+    ],
+    "start": 0.0,
+    "end": 18.7
+  },
+  {
+    "category": "action_localization",
+    "video": "NBMH9.mp4",
+    "question": "Can you identify when the action 'person sits in a chair' happens in the video?",
+    "answer": "Throughout the entire video.",
+    "candidates": [
+      "Throughout the entire video.",
+      "At the end of the video.",
+      "At the beginning of the video.",
+      "In the middle of the video."
+    ],
+    "start": 21.4,
+    "end": 37.6
+  },
+  {
+    "category": "action_localization",
+    "video": "J95U1.mp4",
+    "question": "At what moment in the video does the action 'the person picked up a phone to play with it' occur?",
+    "answer": "Throughout the entire video.",
+    "candidates": [
+      "At the end of the video.",
+      "At the beginning of the video.",
+      "Throughout the entire video.",
+      "In the middle of the video."
+    ],
+    "start": 10.3,
+    "end": 28.3
+  },
+  {
+    "category": "action_sequence",
+    "video": "6H78U.mp4",
+    "question": "What did the person do first?",
+    "answer": "Put down the blanket.",
+    "candidates": [
+      "Put down the blanket.",
+      "Took the towel."
+    ],
+    "start": 16.6,
+    "end": 25.6
+  },
+  {
+    "category": "action_sequence",
+    "video": "OY3LS.mp4",
+    "question": "What did the person do first?",
+    "answer": "Closed the laptop.",
+    "candidates": [
+      "Closed the laptop.",
+      "Threw the clothes."
+    ],
+    "start": 7.0,
+    "end": 23.8
+  },
+  {
+    "category": "action_sequence",
+    "video": "OY3LS.mp4",
+    "question": "What did the person do first?",
+    "answer": "Opened the laptop.",
+    "candidates": [
+      "Threw the clothes.",
+      "Opened the laptop."
+    ],
+    "start": 2.5,
+    "end": 23.8
+  },
+  {
+    "category": "action_sequence",
+    "video": "OY3LS.mp4",
+    "question": "What did the person do first?",
+    "answer": "Took the blanket.",
+    "candidates": [
+      "Sat on the sofa/couch.",
+      "Took the blanket."
+    ],
+    "start": 34.7,
+    "end": 41.4
+  },
+  {
+    "category": "action_sequence",
+    "video": "KQDX6.mp4",
+    "question": "What did the person do first?",
+    "answer": "Drank from the cup/glass/bottle.",
+    "candidates": [
+      "Drank from the cup/glass/bottle.",
+      "Opened the door."
+    ],
+    "start": 4.0,
+    "end": 25.0
+  }
+]

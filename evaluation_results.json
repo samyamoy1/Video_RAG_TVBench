@@ -1,0 +1,142 @@
+[
+  {
+    "category": "moving_direction",
+    "video": "video_14393.mp4",
+    "question": "Which direction does the purple sphere move in the video?",
+    "ground_truth": "Down and to the right.",
+    "qwen_answer": "The purple sphere moves towards the yellow sphere and then away from it, ending up to the right of the yellow sphere."
+  },
+  {
+    "category": "moving_direction",
+    "video": "video_12582.mp4",
+    "question": "Which direction does the brown cube move in the video?",
+    "ground_truth": "Down and to the left.",
+    "qwen_answer": "The brown cube moves from the top right to the bottom left of the frame."
+  },
+  {
+    "category": "moving_direction",
+    "video": "video_13609.mp4",
+    "question": "Which direction does the purple sphere move in the video?",
+    "ground_truth": "Down and to the right.",
+    "qwen_answer": "The purple sphere moves from the left side of the image to the right side, then slightly upwards and downwards."
+  },
+  {
+    "category": "moving_direction",
+    "video": "video_14362.mp4",
+    "question": "Which direction does the gray sphere move in the video?",
+    "ground_truth": "Down and to the right.",
+    "qwen_answer": "The gray sphere moves from the left side of the image to the right side, then back to the left."
+  },
+  {
+    "category": "moving_direction",
+    "video": "video_11746.mp4",
+    "question": "Which direction does the green sphere move in the video?",
+    "ground_truth": "Down and to the left.",
+    "qwen_answer": "The green sphere moves towards the right side of the frame."
+  },
+  {
+    "category": "action_count",
+    "video": "video_8686.mp4",
+    "question": "The person makes sets of repeated actions. How many times did the person repeat the action in the last set?",
+    "ground_truth": "4",
+    "qwen_answer": "In the last set, the person made 3 repetitions of the action."
+  },
+  {
+    "category": "action_count",
+    "video": "video_10205.mp4",
+    "question": "The person makes sets of repeated actions. How many times did the person repeat the action in the last set?",
+    "ground_truth": "2",
+    "qwen_answer": "The person made the action of picking up the spray bottle and placing it back on the table twice in the last set."
+  },
+  {
+    "category": "action_count",
+    "video": "video_10879.mp4",
+    "question": "The person makes sets of repeated actions. How many times did the person repeat the action in the first set?",
+    "ground_truth": "5",
+    "qwen_answer": "In the first set of actions, the person made two sets of repeated actions."
+  },
+  {
+    "category": "action_count",
+    "video": "video_2126.mp4",
+    "question": "How many containers did the person try to cover?",
+    "ground_truth": "5",
+    "qwen_answer": "The person tried to cover four containers: a bottle, a jar, a small container, and a larger container."
+  },
+  {
+    "category": "action_count",
+    "video": "video_10392.mp4",
+    "question": "How many buttons did you see the person buttoning up?",
+    "ground_truth": "5",
+    "qwen_answer": "The person buttoned up three buttons on their shirt."
+  },
+  {
+    "category": "action_localization",
+    "video": "EK5K1.mp4",
+    "question": "At what moment in the video does the action 'the person takes a lollipop from a box' occur?",
+    "ground_truth": "Throughout the entire video.",
+    "qwen_answer": "The action happens in 19.2 - 24.6 seconds."
+  },
+  {
+    "category": "action_localization",
+    "video": "L2502.mp4",
+    "question": "When in the video sequence do we observe the action 'person fixes their hair in a mirror'?",
+    "ground_truth": "Throughout the entire video.",
+    "qwen_answer": "The action happens in 16.2 - 20.8 seconds."
+  },
+  {
+    "category": "action_localization",
+    "video": "TKAUR.mp4",
+    "question": "When in the video sequence do we observe the action 'person reads a book'?",
+    "ground_truth": "Throughout the entire video.",
+    "qwen_answer": "The action happens in 0.0 - 12.3 seconds."
+  },
+  {
+    "category": "action_localization",
+    "video": "NBMH9.mp4",
+    "question": "Can you identify when the action 'person sits in a chair' happens in the video?",
+    "ground_truth": "Throughout the entire video.",
+    "qwen_answer": "The action happens in 10.3 - 24.8 seconds."
+  },
+  {
+    "category": "action_localization",
+    "video": "J95U1.mp4",
+    "question": "At what moment in the video does the action 'the person picked up a phone to play with it' occur?",
+    "ground_truth": "Throughout the entire video.",
+    "qwen_answer": "The action happens in 0.0 - 12.8 seconds."
+  },
+  {
+    "category": "action_sequence",
+    "video": "6H78U.mp4",
+    "question": "What did the person do first?",
+    "ground_truth": "Put down the blanket.",
+    "qwen_answer": "The person first stands in the living room, holding a remote control."
+  },
+  {
+    "category": "action_sequence",
+    "video": "OY3LS.mp4",
+    "question": "What did the person do first?",
+    "ground_truth": "Closed the laptop.",
+    "qwen_answer": "The person first stood in the room holding a pink frisbee."
+  },
+  {
+    "category": "action_sequence",
+    "video": "OY3LS.mp4",
+    "question": "What did the person do first?",
+    "ground_truth": "Opened the laptop.",
+    "qwen_answer": "The person first stood in the room holding a pink frisbee."
+  },
+  {
+    "category": "action_sequence",
+    "video": "OY3LS.mp4",
+    "question": "What did the person do first?",
+    "ground_truth": "Took the blanket.",
+    "qwen_answer": "The person first stood in the room holding a pink frisbee."
+  },
+  {
+    "category": "action_sequence",
+    "video": "KQDX6.mp4",
+    "question": "What did the person do first?",
+    "ground_truth": "Drank from the cup/glass/bottle.",
+    "qwen_answer": "The person first opened the door with their right hand."
+  }
+]
