@@ -1,0 +1,296 @@
+[
+  {
+    "chunk_id": 0,
+    "video": "TKAUR.mp4",
+    "start": 0.0,
+    "end": 2.0,
+    "description": "The man reads the book."
+  },
+  {
+    "chunk_id": 1,
+    "video": "TKAUR.mp4",
+    "start": 1.0,
+    "end": 3.0,
+    "description": "The man reads the book."
+  },
+  {
+    "chunk_id": 2,
+    "video": "TKAUR.mp4",
+    "start": 2.0,
+    "end": 4.0,
+    "description": "The man reads the book."
+  },
+  {
+    "chunk_id": 3,
+    "video": "TKAUR.mp4",
+    "start": 3.0,
+    "end": 5.0,
+    "description": "The man closes the book and walks away from the counter."
+  },
+  {
+    "chunk_id": 4,
+    "video": "TKAUR.mp4",
+    "start": 4.0,
+    "end": 6.0,
+    "description": "The man places the book on the counter."
+  },
+  {
+    "chunk_id": 5,
+    "video": "TKAUR.mp4",
+    "start": 5.0,
+    "end": 7.0,
+    "description": "The man picks up the pizza from the counter."
+  },
+  {
+    "chunk_id": 6,
+    "video": "TKAUR.mp4",
+    "start": 6.0,
+    "end": 8.0,
+    "description": "The man picks up a glass of water from the counter."
+  },
+  {
+    "chunk_id": 7,
+    "video": "TKAUR.mp4",
+    "start": 7.0,
+    "end": 9.0,
+    "description": "The man drinks from the cup."
+  },
+  {
+    "chunk_id": 8,
+    "video": "TKAUR.mp4",
+    "start": 8.0,
+    "end": 10.0,
+    "description": "The man drinks from the cup while reading the book."
+  },
+  {
+    "chunk_id": 9,
+    "video": "TKAUR.mp4",
+    "start": 9.0,
+    "end": 11.0,
+    "description": "The man continues to read the book while drinking from his cup."
+  },
+  {
+    "chunk_id": 10,
+    "video": "TKAUR.mp4",
+    "start": 10.0,
+    "end": 12.0,
+    "description": "The man reads a book while standing in the kitchen."
+  },
+  {
+    "chunk_id": 11,
+    "video": "TKAUR.mp4",
+    "start": 11.0,
+    "end": 13.0,
+    "description": "The man continues to read the book."
+  },
+  {
+    "chunk_id": 12,
+    "video": "TKAUR.mp4",
+    "start": 12.0,
+    "end": 14.0,
+    "description": "The man reads the book."
+  },
+  {
+    "chunk_id": 13,
+    "video": "TKAUR.mp4",
+    "start": 13.0,
+    "end": 15.0,
+    "description": "The man reads the book."
+  },
+  {
+    "chunk_id": 14,
+    "video": "TKAUR.mp4",
+    "start": 14.0,
+    "end": 16.0,
+    "description": "The man reads the book while holding a cup of coffee."
+  },
+  {
+    "chunk_id": 15,
+    "video": "TKAUR.mp4",
+    "start": 15.0,
+    "end": 17.0,
+    "description": "The man reads a book while holding a cup of coffee."
+  },
+  {
+    "chunk_id": 16,
+    "video": "TKAUR.mp4",
+    "start": 16.0,
+    "end": 18.0,
+    "description": "The man drinks from the cup."
+  },
+  {
+    "chunk_id": 17,
+    "video": "TKAUR.mp4",
+    "start": 17.0,
+    "end": 19.0,
+    "description": "The man places the cup on the counter."
+  },
+  {
+    "chunk_id": 18,
+    "video": "TKAUR.mp4",
+    "start": 18.0,
+    "end": 20.0,
+    "description": "A man leans over a kitchen counter."
+  },
+  {
+    "chunk_id": 19,
+    "video": "TKAUR.mp4",
+    "start": 19.0,
+    "end": 21.0,
+    "description": "The man picks up a glass from the counter."
+  },
+  {
+    "chunk_id": 20,
+    "video": "TKAUR.mp4",
+    "start": 20.0,
+    "end": 22.0,
+    "description": "The man pours coffee into a glass."
+  },
+  {
+    "chunk_id": 21,
+    "video": "TKAUR.mp4",
+    "start": 21.0,
+    "end": 23.0,
+    "description": "The man pours the contents of the jar into the glass."
+  },
+  {
+    "chunk_id": 22,
+    "video": "TKAUR.mp4",
+    "start": 22.0,
+    "end": 24.0,
+    "description": "The man pours the contents of the jar into the glass."
+  },
+  {
+    "chunk_id": 23,
+    "video": "TKAUR.mp4",
+    "start": 23.0,
+    "end": 25.0,
+    "description": "The man puts the can down on the counter."
+  },
+  {
+    "chunk_id": 24,
+    "video": "TKAUR.mp4",
+    "start": 24.0,
+    "end": 26.0,
+    "description": "The man picks up a blender from the counter."
+  },
+  {
+    "chunk_id": 25,
+    "video": "TKAUR.mp4",
+    "start": 25.0,
+    "end": 27.0,
+    "description": "The man picks up a red mug from the counter."
+  },
+  {
+    "chunk_id": 26,
+    "video": "TKAUR.mp4",
+    "start": 26.0,
+    "end": 28.0,
+    "description": "A man stands in a kitchen holding a red cup."
+  },
+  {
+    "chunk_id": 27,
+    "video": "TKAUR.mp4",
+    "start": 27.0,
+    "end": 29.0,
+    "description": "A man walks into frame holding a cup."
+  },
+  {
+    "chunk_id": 28,
+    "video": "TKAUR.mp4",
+    "start": 28.0,
+    "end": 30.0,
+    "description": "A man stands in a room holding a bowl of food."
+  },
+  {
+    "chunk_id": 29,
+    "video": "TKAUR.mp4",
+    "start": 29.0,
+    "end": 31.0,
+    "description": "A person wearing a black shirt with a white skull design stands in a room."
+  },
+  {
+    "chunk_id": 30,
+    "video": "TKAUR.mp4",
+    "start": 30.0,
+    "end": 32.0,
+    "description": "A man wearing a black shirt with a white skull design stands in a room."
+  },
+  {
+    "chunk_id": 31,
+    "video": "TKAUR.mp4",
+    "start": 31.0,
+    "end": 33.0,
+    "description": "A man holds up a pair of pants."
+  },
+  {
+    "chunk_id": 32,
+    "video": "TKAUR.mp4",
+    "start": 32.0,
+    "end": 34.0,
+    "description": "A man dances in a kitchen."
+  },
+  {
+    "chunk_id": 33,
+    "video": "TKAUR.mp4",
+    "start": 33.0,
+    "end": 35.0,
+    "description": "A man wearing a black hoodie with a skull graphic on it is dancing in a kitchen."
+  },
+  {
+    "chunk_id": 34,
+    "video": "TKAUR.mp4",
+    "start": 34.0,
+    "end": 36.0,
+    "description": "A man wearing a black hoodie with a skull graphic on it is standing in a kitchen."
+  },
+  {
+    "chunk_id": 35,
+    "video": "TKAUR.mp4",
+    "start": 35.0,
+    "end": 37.0,
+    "description": "The man is dancing in the kitchen."
+  },
+  {
+    "chunk_id": 36,
+    "video": "TKAUR.mp4",
+    "start": 36.0,
+    "end": 38.0,
+    "description": "A boy wearing a black hoodie with the word \"Call of Duty\" on it is dancing in a kitchen."
+  },
+  {
+    "chunk_id": 37,
+    "video": "TKAUR.mp4",
+    "start": 37.0,
+    "end": 39.0,
+    "description": "The man moves around the kitchen."
+  },
+  {
+    "chunk_id": 38,
+    "video": "TKAUR.mp4",
+    "start": 38.0,
+    "end": 40.0,
+    "description": "A man stands in a room, then walks out of frame."
+  },
+  {
+    "chunk_id": 39,
+    "video": "TKAUR.mp4",
+    "start": 39.0,
+    "end": 41.0,
+    "description": "A man sits on a couch holding a box of cereal."
+  },
+  {
+    "chunk_id": 40,
+    "video": "TKAUR.mp4",
+    "start": 40.0,
+    "end": 41.65,
+    "description": "A remote control moves across the couch."
+  },
+  {
+    "chunk_id": 41,
+    "video": "TKAUR.mp4",
+    "start": 41.0,
+    "end": 41.65,
+    "description": "A remote control moves across the couch."
+  }
+]

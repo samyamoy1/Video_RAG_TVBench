@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": 0,
+    "video": "video_14362.mp4",
+    "start": 0.0,
+    "end": 2.0,
+    "description": "The gray sphere moves closer to the blue sphere."
+  },
+  {
+    "chunk_id": 1,
+    "video": "video_14362.mp4",
+    "start": 1.0,
+    "end": 3.0,
+    "description": "The blue rubber cube moves slightly."
+  },
+  {
+    "chunk_id": 2,
+    "video": "video_14362.mp4",
+    "start": 2.0,
+    "end": 4.0,
+    "description": "The blue matte cube moves slightly to the right."
+  },
+  {
+    "chunk_id": 3,
+    "video": "video_14362.mp4",
+    "start": 3.0,
+    "end": 5.0,
+    "description": "The blue rubber block moves slightly."
+  },
+  {
+    "chunk_id": 4,
+    "video": "video_14362.mp4",
+    "start": 4.0,
+    "end": 5.12,
+    "description": "The blue matte object moves slightly."
+  },
+  {
+    "chunk_id": 5,
+    "video": "video_14362.mp4",
+    "start": 5.0,
+    "end": 5.12,
+    "description": "The blue rubber block moves to the right."
+  }
+]

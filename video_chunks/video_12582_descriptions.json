@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": 0,
+    "video": "video_12582.mp4",
+    "start": 0.0,
+    "end": 2.0,
+    "description": "The red rubber ball moves slightly."
+  },
+  {
+    "chunk_id": 1,
+    "video": "video_12582.mp4",
+    "start": 1.0,
+    "end": 3.0,
+    "description": "The red rubber ball moves closer to the blue cube."
+  },
+  {
+    "chunk_id": 2,
+    "video": "video_12582.mp4",
+    "start": 2.0,
+    "end": 4.0,
+    "description": "The red rubber sphere moves slightly to the right."
+  },
+  {
+    "chunk_id": 3,
+    "video": "video_12582.mp4",
+    "start": 3.0,
+    "end": 5.0,
+    "description": "The red rubber sphere moves slightly to the right."
+  },
+  {
+    "chunk_id": 4,
+    "video": "video_12582.mp4",
+    "start": 4.0,
+    "end": 5.12,
+    "description": "The red rubber sphere moves slightly to the right."
+  },
+  {
+    "chunk_id": 5,
+    "video": "video_12582.mp4",
+    "start": 5.0,
+    "end": 5.12,
+    "description": "The red rubber sphere moves slightly to the right."
+  }
+]

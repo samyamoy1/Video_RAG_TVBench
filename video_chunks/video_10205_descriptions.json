@@ -1,0 +1,177 @@
+[
+  {
+    "chunk_id": 0,
+    "video": "video_10205.mp4",
+    "start": 0.0,
+    "end": 2.0,
+    "description": "A hand reaches for the cup on the table."
+  },
+  {
+    "chunk_id": 1,
+    "video": "video_10205.mp4",
+    "start": 1.0,
+    "end": 3.0,
+    "description": "The person picks up a small object from the metal cup."
+  },
+  {
+    "chunk_id": 2,
+    "video": "video_10205.mp4",
+    "start": 2.0,
+    "end": 4.0,
+    "description": "A hand stirs a spoon in a cup on a table."
+  },
+  {
+    "chunk_id": 3,
+    "video": "video_10205.mp4",
+    "start": 3.0,
+    "end": 5.0,
+    "description": "A hand reaches for a spoon in a metal cup."
+  },
+  {
+    "chunk_id": 4,
+    "video": "video_10205.mp4",
+    "start": 4.0,
+    "end": 6.0,
+    "description": "A hand stirs a spoon in a cup on a table."
+  },
+  {
+    "chunk_id": 5,
+    "video": "video_10205.mp4",
+    "start": 5.0,
+    "end": 7.0,
+    "description": "A hand stirs a spoon in a cup on a table."
+  },
+  {
+    "chunk_id": 6,
+    "video": "video_10205.mp4",
+    "start": 6.0,
+    "end": 8.0,
+    "description": "A hand stirs a spoon in a cup on a table."
+  },
+  {
+    "chunk_id": 7,
+    "video": "video_10205.mp4",
+    "start": 7.0,
+    "end": 9.0,
+    "description": "A hand stirs a spoonful of white substance into a cup on a table."
+  },
+  {
+    "chunk_id": 8,
+    "video": "video_10205.mp4",
+    "start": 8.0,
+    "end": 10.0,
+    "description": "The person picks up a spoon from a cup and places it into another cup."
+  },
+  {
+    "chunk_id": 9,
+    "video": "video_10205.mp4",
+    "start": 9.0,
+    "end": 11.0,
+    "description": "The person places their hand on the table."
+  },
+  {
+    "chunk_id": 10,
+    "video": "video_10205.mp4",
+    "start": 10.0,
+    "end": 12.0,
+    "description": "A hand reaches for the book on the table."
+  },
+  {
+    "chunk_id": 11,
+    "video": "video_10205.mp4",
+    "start": 11.0,
+    "end": 13.0,
+    "description": "A hand flips through the pages of a book titled \"The Tabo Recomendation\"."
+  },
+  {
+    "chunk_id": 12,
+    "video": "video_10205.mp4",
+    "start": 12.0,
+    "end": 14.0,
+    "description": "The person flips through the pages of the book."
+  },
+  {
+    "chunk_id": 13,
+    "video": "video_10205.mp4",
+    "start": 13.0,
+    "end": 15.0,
+    "description": "The person places a book on top of another book on the table."
+  },
+  {
+    "chunk_id": 14,
+    "video": "video_10205.mp4",
+    "start": 14.0,
+    "end": 16.0,
+    "description": "A hand picks up a book from a table."
+  },
+  {
+    "chunk_id": 15,
+    "video": "video_10205.mp4",
+    "start": 15.0,
+    "end": 17.0,
+    "description": "A hand reaches for a book on a table and flips through its pages."
+  },
+  {
+    "chunk_id": 16,
+    "video": "video_10205.mp4",
+    "start": 16.0,
+    "end": 18.0,
+    "description": "A hand places a book on top of another book on a table."
+  },
+  {
+    "chunk_id": 17,
+    "video": "video_10205.mp4",
+    "start": 17.0,
+    "end": 19.0,
+    "description": "A hand reaches for the spray bottle on the desk."
+  },
+  {
+    "chunk_id": 18,
+    "video": "video_10205.mp4",
+    "start": 18.0,
+    "end": 20.0,
+    "description": "A hand reaches for the spray bottle on the desk."
+  },
+  {
+    "chunk_id": 19,
+    "video": "video_10205.mp4",
+    "start": 19.0,
+    "end": 21.0,
+    "description": "A hand reaches for a white spray bottle with a red nozzle on a desk."
+  },
+  {
+    "chunk_id": 20,
+    "video": "video_10205.mp4",
+    "start": 20.0,
+    "end": 22.0,
+    "description": "The person picks up the remote control from the table."
+  },
+  {
+    "chunk_id": 21,
+    "video": "video_10205.mp4",
+    "start": 21.0,
+    "end": 23.0,
+    "description": "The person picks up the remote control from the table."
+  },
+  {
+    "chunk_id": 22,
+    "video": "video_10205.mp4",
+    "start": 22.0,
+    "end": 24.0,
+    "description": "A person places a remote control on top of two books on a table."
+  },
+  {
+    "chunk_id": 23,
+    "video": "video_10205.mp4",
+    "start": 23.0,
+    "end": 24.96,
+    "description": "The person places the remote control on top of the books."
+  },
+  {
+    "chunk_id": 24,
+    "video": "video_10205.mp4",
+    "start": 24.0,
+    "end": 24.96,
+    "description": "A remote control moves slightly on the desk."
+  }
+]

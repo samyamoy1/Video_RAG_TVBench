@@ -1,0 +1,240 @@
+[
+  {
+    "chunk_id": 0,
+    "video": "L2502.mp4",
+    "start": 0.0,
+    "end": 2.0,
+    "description": "A man wearing glasses and a white shirt looks around the room."
+  },
+  {
+    "chunk_id": 1,
+    "video": "L2502.mp4",
+    "start": 1.0,
+    "end": 3.0,
+    "description": "A man wearing glasses and a white shirt sits at a table and picks up a card from his hand."
+  },
+  {
+    "chunk_id": 2,
+    "video": "L2502.mp4",
+    "start": 2.0,
+    "end": 4.0,
+    "description": "The man rubs his face with his hands."
+  },
+  {
+    "chunk_id": 3,
+    "video": "L2502.mp4",
+    "start": 3.0,
+    "end": 5.0,
+    "description": "A man wearing glasses and a white shirt rubs his face with his hand."
+  },
+  {
+    "chunk_id": 4,
+    "video": "L2502.mp4",
+    "start": 4.0,
+    "end": 6.0,
+    "description": "A man wearing glasses and a white shirt is standing in a room. He is holding a pen in his right hand and writing on a piece of paper with his left hand."
+  },
+  {
+    "chunk_id": 5,
+    "video": "L2502.mp4",
+    "start": 5.0,
+    "end": 7.0,
+    "description": "A man wearing a white shirt and glasses is standing in a room. He is talking and gesturing with his hands."
+  },
+  {
+    "chunk_id": 6,
+    "video": "L2502.mp4",
+    "start": 6.0,
+    "end": 8.0,
+    "description": "A man wearing a white shirt and glasses stands in a room, adjusting his shirt collar with his right hand."
+  },
+  {
+    "chunk_id": 7,
+    "video": "L2502.mp4",
+    "start": 7.0,
+    "end": 9.0,
+    "description": "A man wearing a white shirt is standing in a room."
+  },
+  {
+    "chunk_id": 8,
+    "video": "L2502.mp4",
+    "start": 8.0,
+    "end": 10.0,
+    "description": "A man wearing glasses and a white shirt stands in a room, holding a piece of paper. He looks around the room, then lowers his hand and touches his face with his right hand."
+  },
+  {
+    "chunk_id": 9,
+    "video": "L2502.mp4",
+    "start": 9.0,
+    "end": 11.0,
+    "description": "The man covers his face with his hand."
+  },
+  {
+    "chunk_id": 10,
+    "video": "L2502.mp4",
+    "start": 10.0,
+    "end": 12.0,
+    "description": "A man in a white shirt stands in a room, adjusting his collar with his right hand."
+  },
+  {
+    "chunk_id": 11,
+    "video": "L2502.mp4",
+    "start": 11.0,
+    "end": 13.0,
+    "description": "A man wearing a white shirt is standing in a room."
+  },
+  {
+    "chunk_id": 12,
+    "video": "L2502.mp4",
+    "start": 12.0,
+    "end": 14.0,
+    "description": "A man wearing glasses and a white shirt stands in a room."
+  },
+  {
+    "chunk_id": 13,
+    "video": "L2502.mp4",
+    "start": 13.0,
+    "end": 15.0,
+    "description": "The man looks at the laptop screen."
+  },
+  {
+    "chunk_id": 14,
+    "video": "L2502.mp4",
+    "start": 14.0,
+    "end": 16.0,
+    "description": "The man looks at the laptop screen."
+  },
+  {
+    "chunk_id": 15,
+    "video": "L2502.mp4",
+    "start": 15.0,
+    "end": 17.0,
+    "description": "The man looks at the calendar on the wall."
+  },
+  {
+    "chunk_id": 16,
+    "video": "L2502.mp4",
+    "start": 16.0,
+    "end": 18.0,
+    "description": "A man wearing glasses looks at himself in the mirror."
+  },
+  {
+    "chunk_id": 17,
+    "video": "L2502.mp4",
+    "start": 17.0,
+    "end": 19.0,
+    "description": "A man wearing a white shirt and blue glasses is looking at a calendar hanging on the wall."
+  },
+  {
+    "chunk_id": 18,
+    "video": "L2502.mp4",
+    "start": 18.0,
+    "end": 20.0,
+    "description": "A man looks at himself in the mirror."
+  },
+  {
+    "chunk_id": 19,
+    "video": "L2502.mp4",
+    "start": 19.0,
+    "end": 21.0,
+    "description": "A man wearing glasses looks at a calendar hanging on the wall."
+  },
+  {
+    "chunk_id": 20,
+    "video": "L2502.mp4",
+    "start": 20.0,
+    "end": 22.0,
+    "description": "The man looks at the calendar on the wall."
+  },
+  {
+    "chunk_id": 21,
+    "video": "L2502.mp4",
+    "start": 21.0,
+    "end": 23.0,
+    "description": "The man looks at the calendar on the wall."
+  },
+  {
+    "chunk_id": 22,
+    "video": "L2502.mp4",
+    "start": 22.0,
+    "end": 24.0,
+    "description": "The man looks at the calendar on the wall."
+  },
+  {
+    "chunk_id": 23,
+    "video": "L2502.mp4",
+    "start": 23.0,
+    "end": 25.0,
+    "description": "The man looks at his reflection in the mirror."
+  },
+  {
+    "chunk_id": 24,
+    "video": "L2502.mp4",
+    "start": 24.0,
+    "end": 26.0,
+    "description": "The man continues to talk on his phone."
+  },
+  {
+    "chunk_id": 25,
+    "video": "L2502.mp4",
+    "start": 25.0,
+    "end": 27.0,
+    "description": "The man adjusts his glasses with his right hand."
+  },
+  {
+    "chunk_id": 26,
+    "video": "L2502.mp4",
+    "start": 26.0,
+    "end": 28.0,
+    "description": "The man continues to comb his hair with the comb."
+  },
+  {
+    "chunk_id": 27,
+    "video": "L2502.mp4",
+    "start": 27.0,
+    "end": 29.0,
+    "description": "A man wearing glasses looks at a calendar hanging on the wall."
+  },
+  {
+    "chunk_id": 28,
+    "video": "L2502.mp4",
+    "start": 28.0,
+    "end": 30.0,
+    "description": "The man walks towards the computer desk."
+  },
+  {
+    "chunk_id": 29,
+    "video": "L2502.mp4",
+    "start": 29.0,
+    "end": 31.0,
+    "description": "A man wearing glasses and a green shirt stands in front of a computer monitor."
+  },
+  {
+    "chunk_id": 30,
+    "video": "L2502.mp4",
+    "start": 30.0,
+    "end": 32.0,
+    "description": "A man in a green shirt holds a fan as he walks towards the camera."
+  },
+  {
+    "chunk_id": 31,
+    "video": "L2502.mp4",
+    "start": 31.0,
+    "end": 33.0,
+    "description": "A man in a green shirt stands in front of a fan."
+  },
+  {
+    "chunk_id": 32,
+    "video": "L2502.mp4",
+    "start": 32.0,
+    "end": 33.8,
+    "description": "A man wearing a green shirt is standing in front of a fan."
+  },
+  {
+    "chunk_id": 33,
+    "video": "L2502.mp4",
+    "start": 33.0,
+    "end": 33.8,
+    "description": "A man wearing a green shirt is standing in front of a fan."
+  }
+]

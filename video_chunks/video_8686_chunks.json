@@ -1,0 +1,80 @@
+[
+  {
+    "chunk_id": 0,
+    "video": "video_8686.mp4",
+    "start": 0.0,
+    "end": 2.0
+  },
+  {
+    "chunk_id": 1,
+    "video": "video_8686.mp4",
+    "start": 1.0,
+    "end": 3.0
+  },
+  {
+    "chunk_id": 2,
+    "video": "video_8686.mp4",
+    "start": 2.0,
+    "end": 4.0
+  },
+  {
+    "chunk_id": 3,
+    "video": "video_8686.mp4",
+    "start": 3.0,
+    "end": 5.0
+  },
+  {
+    "chunk_id": 4,
+    "video": "video_8686.mp4",
+    "start": 4.0,
+    "end": 6.0
+  },
+  {
+    "chunk_id": 5,
+    "video": "video_8686.mp4",
+    "start": 5.0,
+    "end": 7.0
+  },
+  {
+    "chunk_id": 6,
+    "video": "video_8686.mp4",
+    "start": 6.0,
+    "end": 8.0
+  },
+  {
+    "chunk_id": 7,
+    "video": "video_8686.mp4",
+    "start": 7.0,
+    "end": 9.0
+  },
+  {
+    "chunk_id": 8,
+    "video": "video_8686.mp4",
+    "start": 8.0,
+    "end": 10.0
+  },
+  {
+    "chunk_id": 9,
+    "video": "video_8686.mp4",
+    "start": 9.0,
+    "end": 11.0
+  },
+  {
+    "chunk_id": 10,
+    "video": "video_8686.mp4",
+    "start": 10.0,
+    "end": 12.0
+  },
+  {
+    "chunk_id": 11,
+    "video": "video_8686.mp4",
+    "start": 11.0,
+    "end": 12.98
+  },
+  {
+    "chunk_id": 12,
+    "video": "video_8686.mp4",
+    "start": 12.0,
+    "end": 12.98
+  }
+]

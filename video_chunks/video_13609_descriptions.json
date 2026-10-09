@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": 0,
+    "video": "video_13609.mp4",
+    "start": 0.0,
+    "end": 2.0,
+    "description": "The purple sphere collides with the gray rubber object."
+  },
+  {
+    "chunk_id": 1,
+    "video": "video_13609.mp4",
+    "start": 1.0,
+    "end": 3.0,
+    "description": "The purple sphere moves to the right of the gray rubber object."
+  },
+  {
+    "chunk_id": 2,
+    "video": "video_13609.mp4",
+    "start": 2.0,
+    "end": 4.0,
+    "description": "The purple sphere collides with the blue cube."
+  },
+  {
+    "chunk_id": 3,
+    "video": "video_13609.mp4",
+    "start": 3.0,
+    "end": 5.0,
+    "description": "The purple sphere collides with the blue cube."
+  },
+  {
+    "chunk_id": 4,
+    "video": "video_13609.mp4",
+    "start": 4.0,
+    "end": 5.12,
+    "description": "The purple sphere collides with the blue cube."
+  },
+  {
+    "chunk_id": 5,
+    "video": "video_13609.mp4",
+    "start": 5.0,
+    "end": 5.12,
+    "description": "The gray cube moves slightly to the right."
+  }
+]

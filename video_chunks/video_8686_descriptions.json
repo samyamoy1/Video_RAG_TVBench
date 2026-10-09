@@ -1,0 +1,93 @@
+[
+  {
+    "chunk_id": 0,
+    "video": "video_8686.mp4",
+    "start": 0.0,
+    "end": 2.0,
+    "description": "A woman sits at a table with her hands clasped together."
+  },
+  {
+    "chunk_id": 1,
+    "video": "video_8686.mp4",
+    "start": 1.0,
+    "end": 3.0,
+    "description": "A woman sits at a table with her hands moving."
+  },
+  {
+    "chunk_id": 2,
+    "video": "video_8686.mp4",
+    "start": 2.0,
+    "end": 4.0,
+    "description": "A woman sits at a table with her hands clasped together."
+  },
+  {
+    "chunk_id": 3,
+    "video": "video_8686.mp4",
+    "start": 3.0,
+    "end": 5.0,
+    "description": "A woman sits at a table with her hands moving up and down."
+  },
+  {
+    "chunk_id": 4,
+    "video": "video_8686.mp4",
+    "start": 4.0,
+    "end": 6.0,
+    "description": "A woman sits at a table with her hands raised."
+  },
+  {
+    "chunk_id": 5,
+    "video": "video_8686.mp4",
+    "start": 5.0,
+    "end": 7.0,
+    "description": "The woman picks up a pen from the table."
+  },
+  {
+    "chunk_id": 6,
+    "video": "video_8686.mp4",
+    "start": 6.0,
+    "end": 8.0,
+    "description": "A woman is cutting a cucumber with a knife."
+  },
+  {
+    "chunk_id": 7,
+    "video": "video_8686.mp4",
+    "start": 7.0,
+    "end": 9.0,
+    "description": "A hand picks up a pen from a table."
+  },
+  {
+    "chunk_id": 8,
+    "video": "video_8686.mp4",
+    "start": 8.0,
+    "end": 10.0,
+    "description": "The woman moves her hand up and down."
+  },
+  {
+    "chunk_id": 9,
+    "video": "video_8686.mp4",
+    "start": 9.0,
+    "end": 11.0,
+    "description": "The woman is using her right hand to pick up a small object from the table."
+  },
+  {
+    "chunk_id": 10,
+    "video": "video_8686.mp4",
+    "start": 10.0,
+    "end": 12.0,
+    "description": "A woman picks up a knife from a table."
+  },
+  {
+    "chunk_id": 11,
+    "video": "video_8686.mp4",
+    "start": 11.0,
+    "end": 12.98,
+    "description": "The woman adjusts her bracelet with her right hand."
+  },
+  {
+    "chunk_id": 12,
+    "video": "video_8686.mp4",
+    "start": 12.0,
+    "end": 12.98,
+    "description": "A woman sits at a table with her hands resting on it."
+  }
+]
