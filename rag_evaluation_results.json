@@ -1,0 +1,642 @@
+[
+  {
+    "index": 0,
+    "category": "moving_direction",
+    "video": "video_14393.mp4",
+    "question": "Which direction does the purple sphere move in the video?",
+    "ground_truth": "Down and to the right.",
+    "prediction": "right",
+    "retrieved_chunks": [
+      {
+        "chunk_id": 5,
+        "start": 5.0,
+        "end": 5.12,
+        "score": 0.7405528426170349,
+        "description": "The purple ball moves slightly to the right."
+      },
+      {
+        "chunk_id": 4,
+        "start": 4.0,
+        "end": 5.12,
+        "score": 0.7405528426170349,
+        "description": "The purple ball moves slightly to the right."
+      },
+      {
+        "chunk_id": 2,
+        "start": 2.0,
+        "end": 4.0,
+        "score": 0.6623307466506958,
+        "description": "The yellow rubber sphere moves to the right."
+      }
+    ],
+    "num_frames": 10
+  },
+  {
+    "index": 1,
+    "category": "moving_direction",
+    "video": "video_12582.mp4",
+    "question": "Which direction does the brown cube move in the video?",
+    "ground_truth": "Down and to the left.",
+    "prediction": "The brown cube moves to the left.",
+    "retrieved_chunks": [
+      {
+        "chunk_id": 1,
+        "start": 1.0,
+        "end": 3.0,
+        "score": 0.6035319566726685,
+        "description": "The red rubber ball moves closer to the blue cube."
+      },
+      {
+        "chunk_id": 5,
+        "start": 5.0,
+        "end": 5.12,
+        "score": 0.5077649354934692,
+        "description": "The red rubber sphere moves slightly to the right."
+      },
+      {
+        "chunk_id": 4,
+        "start": 4.0,
+        "end": 5.12,
+        "score": 0.5077649354934692,
+        "description": "The red rubber sphere moves slightly to the right."
+      }
+    ],
+    "num_frames": 10
+  },
+  {
+    "index": 2,
+    "category": "moving_direction",
+    "video": "video_13609.mp4",
+    "question": "Which direction does the purple sphere move in the video?",
+    "ground_truth": "Down and to the right.",
+    "prediction": "right",
+    "retrieved_chunks": [
+      {
+        "chunk_id": 1,
+        "start": 1.0,
+        "end": 3.0,
+        "score": 0.7803201079368591,
+        "description": "The purple sphere moves to the right of the gray rubber object."
+      },
+      {
+        "chunk_id": 3,
+        "start": 3.0,
+        "end": 5.0,
+        "score": 0.6209908723831177,
+        "description": "The purple sphere collides with the blue cube."
+      },
+      {
+        "chunk_id": 2,
+        "start": 2.0,
+        "end": 4.0,
+        "score": 0.6209908723831177,
+        "description": "The purple sphere collides with the blue cube."
+      }
+    ],
+    "num_frames": 12
+  },
+  {
+    "index": 3,
+    "category": "moving_direction",
+    "video": "video_14362.mp4",
+    "question": "Which direction does the gray sphere move in the video?",
+    "ground_truth": "Down and to the right.",
+    "prediction": "closer to the blue sphere",
+    "retrieved_chunks": [
+      {
+        "chunk_id": 0,
+        "start": 0.0,
+        "end": 2.0,
+        "score": 0.7556372880935669,
+        "description": "The gray sphere moves closer to the blue sphere."
+      },
+      {
+        "chunk_id": 2,
+        "start": 2.0,
+        "end": 4.0,
+        "score": 0.48161837458610535,
+        "description": "The blue matte cube moves slightly to the right."
+      },
+      {
+        "chunk_id": 4,
+        "start": 4.0,
+        "end": 5.12,
+        "score": 0.44427505135536194,
+        "description": "The blue matte object moves slightly."
+      }
+    ],
+    "num_frames": 12
+  },
+  {
+    "index": 4,
+    "category": "moving_direction",
+    "video": "video_11746.mp4",
+    "question": "Which direction does the green sphere move in the video?",
+    "ground_truth": "Down and to the left.",
+    "prediction": "right",
+    "retrieved_chunks": [
+      {
+        "chunk_id": 1,
+        "start": 1.0,
+        "end": 3.0,
+        "score": 0.7244524955749512,
+        "description": "The gray sphere moves to the right."
+      },
+      {
+        "chunk_id": 2,
+        "start": 2.0,
+        "end": 4.0,
+        "score": 0.7244524955749512,
+        "description": "The gray sphere moves to the right."
+      },
+      {
+        "chunk_id": 0,
+        "start": 0.0,
+        "end": 2.0,
+        "score": 0.7094064950942993,
+        "description": "The green ball moves to the right."
+      }
+    ],
+    "num_frames": 12
+  },
+  {
+    "index": 5,
+    "category": "action_count",
+    "video": "video_8686.mp4",
+    "question": "The person makes sets of repeated actions. How many times did the person repeat the action in the last set?",
+    "ground_truth": "4",
+    "prediction": "2",
+    "retrieved_chunks": [
+      {
+        "chunk_id": 8,
+        "start": 8.0,
+        "end": 10.0,
+        "score": 0.1524660587310791,
+        "description": "The woman moves her hand up and down."
+      },
+      {
+        "chunk_id": 7,
+        "start": 7.0,
+        "end": 9.0,
+        "score": 0.1189858689904213,
+        "description": "A hand picks up a pen from a table."
+      },
+      {
+        "chunk_id": 1,
+        "start": 1.0,
+        "end": 3.0,
+        "score": 0.10059152543544769,
+        "description": "A woman sits at a table with her hands moving."
+      }
+    ],
+    "num_frames": 12
+  },
+  {
+    "index": 6,
+    "category": "action_count",
+    "video": "video_10205.mp4",
+    "question": "The person makes sets of repeated actions. How many times did the person repeat the action in the last set?",
+    "ground_truth": "2",
+    "prediction": "2",
+    "retrieved_chunks": [
+      {
+        "chunk_id": 13,
+        "start": 13.0,
+        "end": 15.0,
+        "score": 0.22672897577285767,
+        "description": "The person places a book on top of another book on the table."
+      },
+      {
+        "chunk_id": 9,
+        "start": 9.0,
+        "end": 11.0,
+        "score": 0.22332344949245453,
+        "description": "The person places their hand on the table."
+      },
+      {
+        "chunk_id": 20,
+        "start": 20.0,
+        "end": 22.0,
+        "score": 0.22227653861045837,
+        "description": "The person picks up the remote control from the table."
+      }
+    ],
+    "num_frames": 12
+  },
+  {
+    "index": 7,
+    "category": "action_count",
+    "video": "video_10879.mp4",
+    "question": "The person makes sets of repeated actions. How many times did the person repeat the action in the first set?",
+    "ground_truth": "5",
+    "prediction": "2",
+    "retrieved_chunks": [
+      {
+        "chunk_id": 23,
+        "start": 23.0,
+        "end": 25.0,
+        "score": 0.2523578405380249,
+        "description": "The person folds the paper again."
+      },
+      {
+        "chunk_id": 26,
+        "start": 26.0,
+        "end": 28.0,
+        "score": 0.24422238767147064,
+        "description": "The person folds the paper in half again."
+      },
+      {
+        "chunk_id": 24,
+        "start": 24.0,
+        "end": 26.0,
+        "score": 0.24422238767147064,
+        "description": "The person folds the paper in half again."
+      }
+    ],
+    "num_frames": 12
+  },
+  {
+    "index": 8,
+    "category": "action_count",
+    "video": "video_2126.mp4",
+    "question": "How many containers did the person try to cover?",
+    "ground_truth": "5",
+    "prediction": "4",
+    "retrieved_chunks": [
+      {
+        "chunk_id": 7,
+        "start": 7.0,
+        "end": 9.0,
+        "score": 0.38128048181533813,
+        "description": "The person opens the medicine container with their right hand."
+      },
+      {
+        "chunk_id": 6,
+        "start": 6.0,
+        "end": 8.0,
+        "score": 0.33575767278671265,
+        "description": "The person opens the container of cream with their right hand."
+      },
+      {
+        "chunk_id": 13,
+        "start": 13.0,
+        "end": 15.0,
+        "score": 0.3008911609649658,
+        "description": "The person picks up a bottle cap from the table."
+      }
+    ],
+    "num_frames": 12
+  },
+  {
+    "index": 9,
+    "category": "action_count",
+    "video": "video_10392.mp4",
+    "question": "How many buttons did you see the person buttoning up?",
+    "ground_truth": "5",
+    "prediction": "4",
+    "retrieved_chunks": [
+      {
+        "chunk_id": 27,
+        "start": 27.0,
+        "end": 29.0,
+        "score": 0.5443627834320068,
+        "description": "A person buttons up their shirt."
+      },
+      {
+        "chunk_id": 29,
+        "start": 29.0,
+        "end": 30.38,
+        "score": 0.408182829618454,
+        "description": "A hand reaches into the shirt to adjust a button."
+      },
+      {
+        "chunk_id": 17,
+        "start": 17.0,
+        "end": 19.0,
+        "score": 0.4078095555305481,
+        "description": "The child buttons up their shirt."
+      }
+    ],
+    "num_frames": 12
+  },
+  {
+    "index": 10,
+    "category": "action_localization",
+    "video": "EK5K1.mp4",
+    "question": "At what moment in the video does the action 'the person takes a lollipop from a box' occur?",
+    "ground_truth": "Throughout the entire video.",
+    "prediction": "The action happens in 32.0 - 34.0 seconds.",
+    "retrieved_chunks": [
+      {
+        "chunk_id": 32,
+        "start": 32.0,
+        "end": 34.0,
+        "score": 0.30146557092666626,
+        "description": "The man opens the box of the blender."
+      },
+      {
+        "chunk_id": 24,
+        "start": 24.0,
+        "end": 26.0,
+        "score": 0.30146557092666626,
+        "description": "The man opens the box of the blender."
+      },
+      {
+        "chunk_id": 31,
+        "start": 31.0,
+        "end": 33.0,
+        "score": 0.30146557092666626,
+        "description": "The man opens the box of the blender."
+      }
+    ],
+    "num_frames": 12
+  },
+  {
+    "index": 11,
+    "category": "action_localization",
+    "video": "L2502.mp4",
+    "question": "When in the video sequence do we observe the action 'person fixes their hair in a mirror'?",
+    "ground_truth": "Throughout the entire video.",
+    "prediction": "The action happens in 7.4 - 19.1 seconds, 23.0 - 25.0 seconds, and 18.0 - 20.0 seconds.",
+    "retrieved_chunks": [
+      {
+        "chunk_id": 23,
+        "start": 23.0,
+        "end": 25.0,
+        "score": 0.4133555293083191,
+        "description": "The man looks at his reflection in the mirror."
+      },
+      {
+        "chunk_id": 18,
+        "start": 18.0,
+        "end": 20.0,
+        "score": 0.41119086742401123,
+        "description": "A man looks at himself in the mirror."
+      },
+      {
+        "chunk_id": 16,
+        "start": 16.0,
+        "end": 18.0,
+        "score": 0.36337509751319885,
+        "description": "A man wearing glasses looks at himself in the mirror."
+      }
+    ],
+    "num_frames": 12
+  },
+  {
+    "index": 12,
+    "category": "action_localization",
+    "video": "TKAUR.mp4",
+    "question": "When in the video sequence do we observe the action 'person reads a book'?",
+    "ground_truth": "Throughout the entire video.",
+    "prediction": "The action happens in 0.0 - 24.8 seconds, 11.0 - 13.0 seconds, and 13.0 - 15.0 seconds.",
+    "retrieved_chunks": [
+      {
+        "chunk_id": 11,
+        "start": 11.0,
+        "end": 13.0,
+        "score": 0.4178367257118225,
+        "description": "The man continues to read the book."
+      },
+      {
+        "chunk_id": 1,
+        "start": 1.0,
+        "end": 3.0,
+        "score": 0.4082876443862915,
+        "description": "The man reads the book."
+      },
+      {
+        "chunk_id": 13,
+        "start": 13.0,
+        "end": 15.0,
+        "score": 0.4082876443862915,
+        "description": "The man reads the book."
+      }
+    ],
+    "num_frames": 12
+  },
+  {
+    "index": 13,
+    "category": "action_localization",
+    "video": "NBMH9.mp4",
+    "question": "Can you identify when the action 'person sits in a chair' happens in the video?",
+    "ground_truth": "Throughout the entire video.",
+    "prediction": "The action happens in 22.0 - 24.0 seconds.",
+    "retrieved_chunks": [
+      {
+        "chunk_id": 17,
+        "start": 17.0,
+        "end": 19.0,
+        "score": 0.47690629959106445,
+        "description": "A person stands on a chair with their back to the camera."
+      },
+      {
+        "chunk_id": 22,
+        "start": 22.0,
+        "end": 24.0,
+        "score": 0.47329968214035034,
+        "description": "A man sits on a chair and talks to someone off camera."
+      },
+      {
+        "chunk_id": 0,
+        "start": 0.0,
+        "end": 2.0,
+        "score": 0.32860806584358215,
+        "description": "A hand moves up and down in front of the camera."
+      }
+    ],
+    "num_frames": 12
+  },
+  {
+    "index": 14,
+    "category": "action_localization",
+    "video": "J95U1.mp4",
+    "question": "At what moment in the video does the action 'the person picked up a phone to play with it' occur?",
+    "ground_truth": "Throughout the entire video.",
+    "prediction": "The action happens in 24.0 - 26.0 seconds.",
+    "retrieved_chunks": [
+      {
+        "chunk_id": 24,
+        "start": 24.0,
+        "end": 26.0,
+        "score": 0.2946833670139313,
+        "description": "The man sits at the table and uses his phone."
+      },
+      {
+        "chunk_id": 23,
+        "start": 23.0,
+        "end": 25.0,
+        "score": 0.29401642084121704,
+        "description": "The man sits at the table with his phone in hand."
+      },
+      {
+        "chunk_id": 15,
+        "start": 15.0,
+        "end": 17.0,
+        "score": 0.29401642084121704,
+        "description": "The man sits at the table with his phone in hand."
+      }
+    ],
+    "num_frames": 12
+  },
+  {
+    "index": 15,
+    "category": "action_sequence",
+    "video": "6H78U.mp4",
+    "question": "What did the person do first?",
+    "ground_truth": "Put down the blanket.",
+    "prediction": "The person moved their hands around.",
+    "retrieved_chunks": [
+      {
+        "chunk_id": 9,
+        "start": 9.0,
+        "end": 11.0,
+        "score": 0.09983129799365997,
+        "description": "The man moves his hands around."
+      },
+      {
+        "chunk_id": 28,
+        "start": 28.0,
+        "end": 30.0,
+        "score": 0.08988045156002045,
+        "description": "A man bends down to pick something up from the couch."
+      },
+      {
+        "chunk_id": 27,
+        "start": 27.0,
+        "end": 29.0,
+        "score": 0.08988045156002045,
+        "description": "A man bends down to pick something up from the couch."
+      }
+    ],
+    "num_frames": 12
+  },
+  {
+    "index": 16,
+    "category": "action_sequence",
+    "video": "OY3LS.mp4",
+    "question": "What did the person do first?",
+    "ground_truth": "Closed the laptop.",
+    "prediction": "The man turned his head to the right.",
+    "retrieved_chunks": [
+      {
+        "chunk_id": 0,
+        "start": 0.0,
+        "end": 2.0,
+        "score": 0.19341693818569183,
+        "description": "The man turns his head to the right."
+      },
+      {
+        "chunk_id": 32,
+        "start": 32.0,
+        "end": 34.0,
+        "score": 0.12859925627708435,
+        "description": "A man bends down to pick up a phone from a table."
+      },
+      {
+        "chunk_id": 22,
+        "start": 22.0,
+        "end": 24.0,
+        "score": 0.1173517256975174,
+        "description": "The man holds the pink frisbee in his right hand."
+      }
+    ],
+    "num_frames": 12
+  },
+  {
+    "index": 17,
+    "category": "action_sequence",
+    "video": "OY3LS.mp4",
+    "question": "What did the person do first?",
+    "ground_truth": "Opened the laptop.",
+    "prediction": "The man turned his head to the right.",
+    "retrieved_chunks": [
+      {
+        "chunk_id": 0,
+        "start": 0.0,
+        "end": 2.0,
+        "score": 0.19341693818569183,
+        "description": "The man turns his head to the right."
+      },
+      {
+        "chunk_id": 32,
+        "start": 32.0,
+        "end": 34.0,
+        "score": 0.12859925627708435,
+        "description": "A man bends down to pick up a phone from a table."
+      },
+      {
+        "chunk_id": 22,
+        "start": 22.0,
+        "end": 24.0,
+        "score": 0.1173517256975174,
+        "description": "The man holds the pink frisbee in his right hand."
+      }
+    ],
+    "num_frames": 12
+  },
+  {
+    "index": 18,
+    "category": "action_sequence",
+    "video": "OY3LS.mp4",
+    "question": "What did the person do first?",
+    "ground_truth": "Took the blanket.",
+    "prediction": "The man turned his head to the right.",
+    "retrieved_chunks": [
+      {
+        "chunk_id": 0,
+        "start": 0.0,
+        "end": 2.0,
+        "score": 0.19341693818569183,
+        "description": "The man turns his head to the right."
+      },
+      {
+        "chunk_id": 32,
+        "start": 32.0,
+        "end": 34.0,
+        "score": 0.12859925627708435,
+        "description": "A man bends down to pick up a phone from a table."
+      },
+      {
+        "chunk_id": 22,
+        "start": 22.0,
+        "end": 24.0,
+        "score": 0.1173517256975174,
+        "description": "The man holds the pink frisbee in his right hand."
+      }
+    ],
+    "num_frames": 12
+  },
+  {
+    "index": 19,
+    "category": "action_sequence",
+    "video": "KQDX6.mp4",
+    "question": "What did the person do first?",
+    "ground_truth": "Drank from the cup/glass/bottle.",
+    "prediction": "The man in pink pants moved his hand up and down.",
+    "retrieved_chunks": [
+      {
+        "chunk_id": 3,
+        "start": 3.0,
+        "end": 5.0,
+        "score": 0.15142777562141418,
+        "description": "The man moves his hand up and down."
+      },
+      {
+        "chunk_id": 13,
+        "start": 13.0,
+        "end": 15.0,
+        "score": 0.10440589487552643,
+        "description": "The man in pink pants moves his hand towards the camera."
+      },
+      {
+        "chunk_id": 11,
+        "start": 11.0,
+        "end": 13.0,
+        "score": 0.0941886305809021,
+        "description": "The man in the blue jacket moves his hands up and down."
+      }
+    ],
+    "num_frames": 12
+  }
+]

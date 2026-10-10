@@ -1,0 +1,79 @@
+{
+  "moving_direction": {
+    "baseline": {
+      "correct": 1,
+      "partially_correct": 3,
+      "wrong": 1,
+      "total": 5,
+      "accuracy_percent": 20.0,
+      "weighted_score_percent": 50.0
+    },
+    "rag": {
+      "correct": 0,
+      "partially_correct": 3,
+      "wrong": 2,
+      "total": 5,
+      "accuracy_percent": 0.0,
+      "weighted_score_percent": 30.0
+    }
+  },
+  "action_count": {
+    "baseline": {
+      "correct": 1,
+      "partially_correct": 0,
+      "wrong": 4,
+      "total": 5,
+      "accuracy_percent": 20.0,
+      "weighted_score_percent": 20.0
+    },
+    "rag": {
+      "correct": 1,
+      "partially_correct": 0,
+      "wrong": 4,
+      "total": 5,
+      "accuracy_percent": 20.0,
+      "weighted_score_percent": 20.0
+    }
+  },
+  "action_localization": {
+    "baseline": "Not scored",
+    "rag": "Not scored",
+    "reason": "Numeric ground-truth intervals are unavailable in the result files."
+  },
+  "action_sequence": {
+    "baseline": {
+      "correct": 0,
+      "partially_correct": 0,
+      "wrong": 5,
+      "total": 5,
+      "accuracy_percent": 0.0,
+      "weighted_score_percent": 0.0
+    },
+    "rag": {
+      "correct": 0,
+      "partially_correct": 0,
+      "wrong": 5,
+      "total": 5,
+      "accuracy_percent": 0.0,
+      "weighted_score_percent": 0.0
+    }
+  },
+  "overall_excluding_localization": {
+    "baseline": {
+      "correct": 2,
+      "partially_correct": 3,
+      "wrong": 10,
+      "total_scored": 15,
+      "exact_accuracy_percent": 13.3,
+      "weighted_score_percent": 23.3
+    },
+    "rag": {
+      "correct": 1,
+      "partially_correct": 3,
+      "wrong": 11,
+      "total_scored": 15,
+      "exact_accuracy_percent": 6.7,
+      "weighted_score_percent": 16.7
+    }
+  }
+}
