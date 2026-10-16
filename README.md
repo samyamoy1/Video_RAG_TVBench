@@ -90,7 +90,7 @@ The added retrieval stage introduced new failure points instead of consistently 
 
 Semantic retrieval did work for a controlled query such as “What action involves drinking?”, retrieving chunks whose descriptions mentioned drinking. However, success on this example did not translate into better overall evaluation results.
 
-## Key Takeaway
+## Key Takeaway.
 
 **More complex does not automatically mean better.**
 
